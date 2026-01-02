@@ -42,11 +42,11 @@ public class OsamahAshraf : ISoftwareEngineer
     };
     
     public string CurrentFocus { get; set; } = @"
-        🎯 Building enterprise-grade .NET applications
-        ☁️ Architecting scalable Azure cloud solutions  
-        🏗️ Implementing Clean Architecture & DDD patterns
-        🔄 Real-time systems with SignalR & Azure Functions
+         Building enterprise-grade .NET applications
+         Architecting scalable Azure cloud solutions  
+         Implementing Clean Architecture & DDD patterns
+         Real-time systems with SignalR & Azure Functions
     ";
     
-    public void Work() => Console.WriteLine("Crafting elegant code solutions! ✨");
+    public void Work() => Console.WriteLine("Crafting elegant code solutions!");
 }
