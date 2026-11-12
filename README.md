@@ -79,20 +79,12 @@ public sealed record Osamah : IEngineer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Osamah3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=A78BFA&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamah3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&langs_count=8" alt="Top languages"/>
+<img height="180" src="./profile/stats.svg" alt="GitHub stats"/>
+<img height="180" src="./profile/top-langs.svg" alt="Top languages"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Osamah3&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=A78BFA&currStreakLabel=7F5AF0" alt="GitHub streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Osamah3&bg_color=0D1117&color=A78BFA&line=7F5AF0&point=FFFFFF&area=true&area_color=302B63&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Osamah3&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
 
 </div>
 
